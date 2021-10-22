@@ -1,6 +1,6 @@
-/* #div-style{
-    margin-left: 3rem;
-}  */
+#div-style{
+    margin-left: 8.5px;
+} 
 .container {
     display: flex;
     justify-content: space-between;
