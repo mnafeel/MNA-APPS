@@ -1,6 +1,6 @@
-#div-style{
-    margin-left: 8.5px;
-} 
+body{
+    margin-left: 12rem;
+}
 .container {
     display: flex;
     justify-content: space-between;
