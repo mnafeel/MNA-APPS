@@ -83,10 +83,30 @@ margin-top: 1rem;
     width: 18.5rem;
     margin-left: 2rem; 
 }  */
-section{
-    align-items: center;
+/* #whatsapp-img{
+    width: 12rem;
 }
-
+#facebook-img{
+    width: 12rem;
+}
+#instagram-img{
+    width: 12rem;
+}
+#micloud-img{
+    width: 12rem;
+} */
+#whatsapp{
+    width: 15rem;
+}
+#facebook{
+    width: 15rem;
+}
+#instagram{
+    width: 15rem;
+}
+#micloud{
+    width: 15rem;
+}
 
 
 
